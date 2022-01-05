@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/qrcode-demo/static/css/main.073c9b0a.css",
+    "main.js": "/qrcode-demo/static/js/main.08f4078d.js",
+    "static/js/787.5baf0871.chunk.js": "/qrcode-demo/static/js/787.5baf0871.chunk.js",
+    "static/media/logo.svg": "/qrcode-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/QrCode.svg": "/qrcode-demo/static/media/QrCode.c969ff19758567df1235f216c04fddb5.svg",
+    "index.html": "/qrcode-demo/index.html",
+    "main.073c9b0a.css.map": "/qrcode-demo/static/css/main.073c9b0a.css.map",
+    "main.08f4078d.js.map": "/qrcode-demo/static/js/main.08f4078d.js.map",
+    "787.5baf0871.chunk.js.map": "/qrcode-demo/static/js/787.5baf0871.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.08f4078d.js"
+  ]
+}
